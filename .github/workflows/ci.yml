@@ -12,6 +12,7 @@ on:
        - dev
        - v3
        - v4
+       - fix/build-debug
     paths-ignore:
       - '**.md'
       - 'docs/**'
